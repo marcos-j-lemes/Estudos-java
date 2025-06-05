@@ -19,3 +19,14 @@ Nesta primeira aula sobre Java, foi introduzida a estrutura da linguagem, explic
 ## Início sobre Tipos Primitivos
 
 Foram introduzidos os tipos primitivos em Java, sendo os mais importantes e mais utilizados.
+
+
+# Aula 02 
+
+Nessa aula, foi introduzido como funciona uma *string* em Java, sendo uma sequência de caracteres. Também foi abordado como usar a classe *Scanner* para ler entradas de dados, bem como identificar alguns elementos no código:
+
+* *note:* Como identificar uma *classe:* sempre começa com uma letra maiúscula no código.
+
+* *note:* Como identificar um *objeto:* geralmente, após o sinal de igual (=), aparece a palavra *new* para indicar a criação de um objeto.
+
+* *note:* O ponto (.) representa *métodos,* ou seja, funções que a classe pode executar.
