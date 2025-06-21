@@ -23,7 +23,9 @@ Para entender de forma gradual, é útil estudar em **forma de pirâmide**, part
 
 ```
 
+##  Podemos organizar as estruturas de dados da seguinte forma:
 
+![imagem de estrutura de dados em java](dados.png)
 ---
 
 ## 🧾 Resumo por nível (até o nível atual)
